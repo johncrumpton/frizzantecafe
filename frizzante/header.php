@@ -36,7 +36,6 @@
   			<a href="https://twitter.com/frizzantecafe"><img alt="Social-twitter" class="h-iblock social svg" height="48" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/social-twitter-grey.svg" width="48"></a>
 			<a href="https://www.facebook.com/FrizzanteLDN"><img alt="Social-facebook" class="h-iblock social svg" height="48" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/social-facebook-grey.svg" width="48"></a>
 			<a href="http://instagram.com/frizzantecafe"><img alt="Social-instagram" class="h-iblock social svg" height="48" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/social-instagram-grey.svg" width="48"></a>
-			<a href="https://plus.google.com/114869257670918983538/about"><img alt="Social-google-plus" class="h-iblock social svg" height="48" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/social-google-plus-grey.svg" width="48"></a>
 
   		</div><!-- #social-top -->
 

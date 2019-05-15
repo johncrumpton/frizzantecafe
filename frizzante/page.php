@@ -328,8 +328,6 @@ Thanks to <a href="https://www.facebook.com/cookmecoco/">@cookme.co</a> for inte
 		
 			<a href="http://instagram.com/frizzantecafe"><img alt="Social-instagram" class="h-iblock social" height="65" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/social-instagram.svg" width="65"></a>
 
-			<a href="https://plus.google.com/114869257670918983538/about"><img alt="Social-google-plus" class="h-iblock social" height="65" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/social-google-plus.svg" width="65"></a>
-
         </div>
 
         
