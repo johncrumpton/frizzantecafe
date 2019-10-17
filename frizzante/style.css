@@ -135,7 +135,7 @@ div.nav-menu > ul {
 }
 
 /* New skeleton code */
-html, body { width:100%;  overflow:hidden; }
+html, body { width:100%;  }
 
 article {
 	border-bottom: solid 1px #ffffff;
