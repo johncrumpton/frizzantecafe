@@ -14,9 +14,16 @@ get_header(); ?>
 			<h2>Opening Times</h2>
 		</header><!-- .entry-header -->
 			<div class="yellow-top hyphenate">
-				<strong>Breakfast &amp; Lunch</strong>
+			
+			<p>At Frizzante we pride ourselves in serving the best quality food, it goes without saying that this is done with the strictest hygiene measures in our restaurants. Our employees and you’s health remain our highest priority. As the COVID-19 outbreak evolves, we wanted to assure you that we are taking all necessary precautions.</p>
+
+<p>Frizzante has taken appropriate actions in ensuring that we are proactive to protect our employees and customers. We continue to maintain our strict personal and kitchen hygiene standards in our restaurants. We are also required to all delivery drivers to utilise our facilities and to wash and sanitise their hands. </p>
+
+<p>Thank you for your continued custom and support</p>
+			
+				<!-- <strong>Breakfast &amp; Lunch</strong>
 				<p>Tuesday to Sunday</p>
-				<p>10am&ndash;4.30pm*</p>
+				<p>10am&ndash;4.30pm*</p> -->
 
 				<!-- 
 
@@ -43,15 +50,17 @@ get_header(); ?>
 
 				-->
 			
-
+<!--
 				<strong>Private hire</strong>
 				<p style="margin-bottom: 1em;">Frizzante is available for private hire (weddings, birthdays, parties, etc). Feel free to <a href="mailto:bookings@frizzantecafe.com">drop us a line</a> for more info.</p>
-
+-->
 				<div id="slow-food"><a href="https://www.slowfood.org.uk/all-chefs/eddy-ambrosi/">We love Slow Food</a></div>
 
 			</div>
+
+			
 			<div class="yellow-bottom hyphenate">
-			* Kitchen closes at 3pm during the week and 4pm on weekends
+			<!-- * Kitchen closes at 3pm during the week and 4pm on weekends -->
 			</div>
         </div>
 
@@ -94,7 +103,13 @@ get_header(); ?>
 				}
 				?>
 
+<?php
+				if (get_field('event-book-now')) 
+				{
+					echo '<a class="button button-primary" href="' . get_field('event-book-now') . '">' . get_field('button_text') . '</a>';
+				}
 				
+				?>
 				
 
 
@@ -102,8 +117,9 @@ get_header(); ?>
 
 			</div>
 			<div class="yellow-bottom u-cf addresswrap hyphenate">
-				<div class="address map-marker">1a Goldsmiths Row, London E2 8QA<br />
-			<a href="mailto:bookings@frizzantecafe.com">bookings@frizzantecafe.com</a></div>
+			<!--	<div class="address map-marker">1a Goldsmiths Row, London E2 8QA<br />
+			<a href="mailto:info@frizzantecafe.com">info@frizzantecafe.com</a></div>
+			-->
 			</div>
 		</div>
 
