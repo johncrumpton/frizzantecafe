@@ -212,7 +212,7 @@ a.logo {
 	padding-left: 40px;
 }
 .yellow-box p {
-	margin: 0;
+	/* margin: 0; */
 	line-height: 1.6;
 }
 .yellow-box strong {
@@ -1063,8 +1063,8 @@ there.
 		background-image: url('assets/img/blackboard-hd.jpg');
 	}
 	.toparea {
-	 background-image: url('assets/img/header-new-hd-171108.jpg');  /* Winter */
-	/* background-image: url('assets/img/header-new-hd-161103-GC.jpg');  /* Spring */
+	/* background-image: url('assets/img/header-new-hd-171108.jpg');  /* Winter */
+	 background-image: url('assets/img/header-new-hd-161103-GC.jpg');  /* Spring */
 
 
 	

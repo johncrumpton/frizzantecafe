@@ -11,15 +11,19 @@ get_header(); ?>
       <div class="row">
         <div class="one-half column yellow-box">
           <header>
-			<h2>Opening Times</h2>
+			<h2>Closed (for a bit)</h2>
 		</header><!-- .entry-header -->
 			<div class="yellow-top hyphenate">
 			
-			<p>At Frizzante we pride ourselves in serving the best quality food, it goes without saying that this is done with the strictest hygiene measures in our restaurants. Our employees and you’s health remain our highest priority. As the COVID-19 outbreak evolves, we wanted to assure you that we are taking all necessary precautions.</p>
+			
+			
+			<p>Frizzante cafe at Hackney City Farm is closed for the safety of our staff and lovely customers in fighting COVID-19.</p>
 
-<p>Frizzante has taken appropriate actions in ensuring that we are proactive to protect our employees and customers. We continue to maintain our strict personal and kitchen hygiene standards in our restaurants. We are also required to all delivery drivers to utilise our facilities and to wash and sanitise their hands. </p>
+<p>We all need to stay safe at home to protect the farm, our customers, our communities, and our precious NHS.</p>
 
-<p>Thank you for your continued custom and support</p>
+
+
+
 			
 				<!-- <strong>Breakfast &amp; Lunch</strong>
 				<p>Tuesday to Sunday</p>
@@ -103,13 +107,13 @@ get_header(); ?>
 				}
 				?>
 
-<?php
+<?php /*
 				if (get_field('event-book-now')) 
 				{
 					echo '<a class="button button-primary" href="' . get_field('event-book-now') . '">' . get_field('button_text') . '</a>';
 				}
 				
-				?>
+		*/		?>
 				
 
 
