@@ -175,7 +175,11 @@ get_header(); ?>
 				<h2 style="margin-bottom: 0.6em;">Photos</h2>
 			</header>
 
-			<?php if ( function_exists( 'envira_album' ) ) { envira_album( '268' ); } ?>
+			<?php // if ( function_exists( 'envira_album' ) ) { envira_album( '255' ); } ?>
+
+
+			<?php echo do_shortcode( '[envira-gallery id="255"]' ); ?>
+
 
 			</div>
 
