@@ -25,6 +25,16 @@ h1 {
 	background-size: auto!important;
 }
 
+.container-header {
+	display: flex;
+	
+}
+.col1 {
+
+}
+.col2 {
+	margin: 0 20px;
+}
  .hyphenate {
   /* Careful, this breaks the word wherever it is without a hyphen */
   overflow-wrap: break-word;

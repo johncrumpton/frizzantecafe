@@ -6,67 +6,44 @@ Template Name: Homepage
 get_header(); ?>
 
 
-
-
-      <div class="row">
+<div class="row">
         <div class="one-half column yellow-box">
           <header>
-			<h2>Closed (for a bit)</h2>
+			<h2>New Opening Times</h2>
 		</header><!-- .entry-header -->
 			<div class="yellow-top hyphenate">
-			
-			
-			
-			<p>Frizzante cafe at Hackney City Farm is closed for the safety of our staff and lovely customers in fighting COVID-19.</p>
-
-<p>We all need to stay safe at home to protect the farm, our customers, our communities, and our precious NHS.</p>
-
-
-
-
-			
-				<!-- <strong>Breakfast &amp; Lunch</strong>
-				<p>Tuesday to Sunday</p>
-				<p>10am&ndash;4.30pm*</p> -->
-
-				<!-- 
-
-				<strong>Evenings: 				<?php
-				if (get_field('evenings-title')) 
-				{
-				    echo ' ' . get_field('evenings-title') . ' ';
-				}
-				?></strong>
+				<strong>Lunch, dinner &amp; takeaway</strong>
 				
-				<?php
-				if (get_field('evenings-detail')) 
-				{
-				    echo '<p>' . get_field('evenings-detail') . '</p>';
-				}
-				?>
-				
-				<?php
-				if (get_field('evenings-time')) 
-				{
-				    echo '<p>' . get_field('evenings-time') . '</p>';
-				}
-				?>
+				<div class="container-header">
 
-				-->
-			
-<!--
-				<strong>Private hire</strong>
-				<p style="margin-bottom: 1em;">Frizzante is available for private hire (weddings, birthdays, parties, etc). Feel free to <a href="mailto:bookings@frizzantecafe.com">drop us a line</a> for more info.</p>
--->
+					<div class="col1">
+						<p>Thursday to Sunday<br>
+						11am&ndash;9.30pm</p>
+					</div>
+					
+					<div class="col2">
+					<p>Wednesday<br>
+				9pm&ndash;9.30pm</p>
+
+					</div>
+
+				
+				</div>
+
+				
+				
+				
+
+				<p style="margin: 0.5em 0 1em 0;">Frizzante cafe is styled on the agriturismo’s in Italy, where the farm restaurant offered all produce grown on the farm, meats, vegetables, wines and oils.</p>	
+				
 				<div id="slow-food"><a href="https://www.slowfood.org.uk/all-chefs/eddy-ambrosi/">We love Slow Food</a></div>
 
 			</div>
-
-			
 			<div class="yellow-bottom hyphenate">
-			<!-- * Kitchen closes at 3pm during the week and 4pm on weekends -->
+			
 			</div>
         </div>
+
 
 <?php /*  <!-- ?>
         <div class="one-half column yellow-box yellow-event">
