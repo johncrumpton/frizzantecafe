@@ -18,12 +18,15 @@ get_header(); ?>
 
 					<div class="col1">
 						<p>Thursday to Sunday<br>
-						11am&ndash;9.30pm</p>
+						11am&ndash;10.30pm</p>
+						<p>(kitchen closes at 9pm)</p>
 					</div>
 					
 					<div class="col2">
 					<p>Wednesday<br>
-				9pm&ndash;9.30pm</p>
+				5pm&ndash;10pm</p>
+
+				
 
 					</div>
 
