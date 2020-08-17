@@ -17,14 +17,14 @@ get_header(); ?>
 				<div class="container-header">
 
 					<div class="col1">
-						<p>Thursday to Sunday<br>
-						11am&ndash;10.30pm</p>
-						<p>(kitchen closes at 9pm)</p>
+						<p>Monday to Saturday<br>
+						12 noon&ndash;9pm</p> 
+						
 					</div>
 					
 					<div class="col2">
-					<p>Wednesday<br>
-				5pm&ndash;10pm</p>
+					<p>Sunday<br>
+					12 noon&ndash;6pm</p>
 
 				
 
