@@ -35,7 +35,7 @@ get_header(); ?>
 
 				
 				
-				<img src="https://d30itml3t0pwpf.cloudfront.net/api/v3/medias/14884230/image/opt/original/1595931015-1bc2a73a">
+				
 				
 
 				<p style="margin: 0.5em 0 1em 0;">Frizzante cafe is styled on the agriturismo’s in Italy, where the farm restaurant offered all produce grown on the farm, meats, vegetables, wines and oils.</p>	
